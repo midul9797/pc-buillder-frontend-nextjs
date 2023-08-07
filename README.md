@@ -1,38 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PH_PC Builder
 
-## Getting Started
+### Live Link: https://pc-builder-sepia.vercel.app
 
-First, run the development server:
+Welcome to my PC Components Store with the PC Builder Feature! This is a Next.js-based web application that allows users to browse and purchase various PC components. Additionally, users can take advantage of the PC Builder feature to assemble and customize their own PCs according to their preferences. This README file serves as a guide to help you understand the project and its functionalities.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. [Introduction](#introduction)
+2. [Features](#features)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+3. [Usage](#usage)
+4. [Technologies Used](#technologies-used)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Introduction
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The PH_PC Builder with PC Builder Feature is a web application designed to cater to PC enthusiasts and gamers who want to build their dream PCs. The website provides a user-friendly interface to explore and buy various PC components, such as CPUs, motherboards, RAM, storage devices, and more. The highlight of the application is the PC Builder feature, which empowers users to create custom PCs by selecting compatible components and visualizing their configurations.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+- Browse and search for a wide range of PC components with detailed specifications and images.
+- User authentication
+- Interactive PC Builder feature with drag-and-drop functionality for assembling custom PCs.
+- Compatibility checks to ensure selected components are compatible with each other.
+- Real-time price and performance calculation of custom PC configurations.
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The PH_PC Builder with PC Builder Feature is built using the following technologies:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Next.js](https://nextjs.org/): A React framework for server-side rendering and building single-page applications.
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Node.js](https://nodejs.org/): A JavaScript runtime for server-side development.
+- [Express.js](https://expressjs.com/): A minimalistic web framework for Node.js to handle API routes.
+- [MongoDB](https://www.mongodb.com/): A NoSQL database for storing product and user information.
+- [Redux](https://redux.js.org/): A state management library to manage application state efficiently.
+- Drag and Drop API: To enable the interactive PC Builder feature.
