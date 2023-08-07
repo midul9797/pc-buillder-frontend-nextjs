@@ -1,0 +1,1095 @@
+[
+  {
+    
+    "name": "Intel Core i9-11900K",
+    "description": "The Intel Core i9-11900K is a high-performance processor from Intel's 11th Gen Rocket Lake lineup. It features 8 cores and 16 threads, making it ideal for demanding tasks and gaming.",
+    "keyFeatures": {
+      "Brand": "Intel",
+      "Model": "Core i9-11900K",
+      "CoreCount": 8,
+      "ThreadCount": 16,
+      "BaseClock": "3.50 GHz",
+      "MaxTurboClock": "5.30 GHz",
+      "TDP": "125W"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-11th-gen-rocket-lake-core-11622529668.webp",
+    "price": 46000,
+    "category": "Processor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+    
+  },
+  {
+   
+    "name": "AMD Ryzen 9 5950X",
+    "description": "The AMD Ryzen 9 5950X is a top-tier processor from AMD's Zen 3 Ryzen 5000 series. It boasts 16 cores and 32 threads, making it a powerhouse for content creation and high-end gaming.",
+    "keyFeatures": {
+      "Brand": "AMD",
+      "Model": "Ryzen 9 5950X",
+      "CoreCount": 16,
+      "ThreadCount": 32,
+      "BaseClock": "3.40 GHz",
+      "MaxTurboClock": "4.90 GHz",
+      "TDP": "105W"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5950x/ryzen-9-5950x-1-500x500.jpg",
+    "price": 49000,
+    "category": "Processor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Gigabyte Z590 AORUS MASTER",
+    "description": "The Gigabyte Z590 AORUS MASTER is a high-end motherboard that supports Intel's 10th and 11th Gen processors. It features advanced power delivery and extensive connectivity options.",
+    "keyFeatures": {
+      "Brand": "Gigabyte",
+      "Model": "Z590 AORUS MASTER",
+      "Chipset": "Intel Z590",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "128GB",
+      "PCIeSlots": 3,
+      "SATA3Ports": 6,
+      "M2Slots": 3,
+      "USBPorts": 13
+    },
+    "image": "https://techbd.com.bd/wp-content/uploads/2021/04/z590-aorus-master-1-500x500-1.png",
+    "price": 30000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "ASUS ROG Strix B550-F Gaming",
+    "description": "The ASUS ROG Strix B550-F Gaming is a feature-rich motherboard designed for AMD Ryzen processors. It offers excellent gaming performance and robust cooling options.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "ROG Strix B550-F Gaming",
+      "Chipset": "AMD B550",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "128GB",
+      "PCIeSlots": 3,
+      "SATA3Ports": 6,
+      "M2Slots": 2,
+      "USBPorts": 12
+    },
+    "image": "https://techbd.com.bd/wp-content/uploads/2021/04/rog-stix-b550f-wifi-5-500x500-1.jpg",
+    "price": 22000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Corsair Vengeance LPX 16GB DDR4",
+    "description": "The Corsair Vengeance LPX is a high-performance DDR4 RAM designed for gaming and overclocking. It offers a low-profile design for easy compatibility with CPU coolers.",
+    "keyFeatures": {
+      "Brand": "Corsair",
+      "Model": "Vengeance LPX",
+      "Capacity": "16GB (2 x 8GB)",
+      "Speed": "3200 MHz",
+      "CASLatency": "16",
+      "Voltage": "1.35V",
+      "MemoryType": "DDR4"
+    },
+    "image": "https://trusttechbd.com/storage/media/8l6r4Au4goBOah38fWVmOB8pP5qfJS1Srh96zov3.jpg",
+    "price": 8000,
+    "category": "RAM",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "G.SKILL Ripjaws V Series 32GB DDR4",
+    "description": "The G.SKILL Ripjaws V Series is a high-capacity DDR4 RAM designed for performance enthusiasts and content creators. It features a stylish design and is optimized for Intel platforms.",
+    "keyFeatures": {
+      "Brand": "G.SKILL",
+      "Model": "Ripjaws V Series",
+      "Capacity": "32GB (2 x 16GB)",
+      "Speed": "3200 MHz",
+      "CASLatency": "16",
+      "Voltage": "1.35V",
+      "MemoryType": "DDR4"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/gskill-ripjaws-v-32gb-ddr4-3200mhz-desktop-ram-11671088375.webp",
+    "price": 15000,
+    "category": "RAM",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Samsung 970 EVO Plus 500GB NVMe SSD",
+    "description": "The Samsung 970 EVO Plus is a high-speed NVMe SSD that offers excellent performance for gaming and professional workloads. It utilizes V-NAND technology for improved reliability.",
+    "keyFeatures": {
+      "Brand": "Samsung",
+      "Model": "970 EVO Plus",
+      "Capacity": "500GB",
+      "Interface": "NVMe PCIe Gen 3.0 x4",
+      "ReadSpeed": "3500 MB/s",
+      "WriteSpeed": "3300 MB/s",
+      "FormFactor": "M.2 (2280)",
+      "Voltage": "3.3V"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/samsung-970-evo-plus-nvme-500gb-m2-2280-pcie-gen-41583840849.webp",
+    "price": 14000,
+    "category": "Storage",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Western Digital Blue 1TB SATA SSD",
+    "description": "The Western Digital Blue is a reliable SATA SSD that offers high-capacity storage for your files and games. It's built with TLC NAND technology for a good balance of performance and cost.",
+    "keyFeatures": {
+      "Brand": "Western Digital",
+      "Model": "Blue",
+      "Capacity": "1TB",
+      "Interface": "SATA 6Gb/s",
+      "ReadSpeed": "560 MB/s",
+      "WriteSpeed": "530 MB/s",
+      "FormFactor": "2.5-inch",
+      "Voltage": "5V"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/western/blue-1tb/wd-blue-1tb-500x500.jpg",
+    "price": 11000,
+    "category": "Storage",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+   
+    "name": "LG 27GL850-B 27 Inch QHD Gaming Monitor",
+    "description": "The LG 27GL850-B is a high-quality QHD gaming monitor with a 27-inch Nano IPS display. It offers a fast 144Hz refresh rate and is NVIDIA G-Sync compatible for smooth gameplay.",
+    "keyFeatures": {
+      "Brand": "LG",
+      "Model": "27GL850-B",
+      "ScreenSize": "27-inch",
+      "PanelType": "Nano IPS",
+      "Resolution": "2560x1440 (QHD)",
+      "RefreshRate": "144Hz",
+      "ResponseTime": "1ms",
+      "AspectRatio": "16:9",
+      "ViewingAngle": "178°",
+      "Brightness": "350 cd/m²"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/lg-27gl850-27-inch-ultragear-qhd-2560x1440-nano-31578386019.webp",
+    "price": 35000,
+    "category": "Monitor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "ASUS TUF Gaming VG27AQ 27 Inch Monitor",
+    "description": "The ASUS TUF Gaming VG27AQ is a 27-inch gaming monitor with a QHD resolution and a fast 165Hz refresh rate. It supports Adaptive-Sync technology for tear-free gaming.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "TUF Gaming VG27AQ",
+      "ScreenSize": "27-inch",
+      "PanelType": "IPS",
+      "Resolution": "2560x1440 (QHD)",
+      "RefreshRate": "165Hz",
+      "ResponseTime": "1ms (MPRT)",
+      "AspectRatio": "16:9",
+      "ViewingAngle": "178°",
+      "Brightness": "350 cd/m²"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/monitor/asus/tuf-gaming%20/vg27aq/vg27aq-1-500x500.jpg",
+    "price": 30000,
+    "category": "Monitor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "AMD Ryzen 5 5600X",
+    "description": "The AMD Ryzen 5 5600X is a high-performance processor from AMD's Zen 3 Ryzen 5000 series. It features 6 cores and 12 threads, making it great for gaming and productivity.",
+    "keyFeatures": {
+      "Brand": "AMD",
+      "Model": "Ryzen 5 5600X",
+      "CoreCount": 6,
+      "ThreadCount": 12,
+      "BaseClock": "3.70 GHz",
+      "MaxTurboClock": "4.60 GHz",
+      "TDP": "65W"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-500x500.jpg",
+    "price": 25000,
+    "category": "Processor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "MSI MPG B550 Gaming Carbon WiFi",
+    "description": "The MSI MPG B550 Gaming Carbon WiFi is a feature-packed motherboard that supports AMD Ryzen processors. It comes with built-in Wi-Fi, customizable RGB lighting, and premium audio.",
+    "keyFeatures": {
+      "Brand": "MSI",
+      "Model": "MPG B550 Gaming Carbon WiFi",
+      "Chipset": "AMD B550",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "128GB",
+      "PCIeSlots": 3,
+      "SATA3Ports": 6,
+      "M2Slots": 2,
+      "USBPorts": 12
+    },
+    "image": "https://c1.neweggimages.com/ProductImageCompressAll300/A4YUD201024720T4.jpg",
+    "price": 28000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Corsair Vengeance LPX 8GB DDR4",
+    "description": "The Corsair Vengeance LPX is a reliable and affordable DDR4 RAM that offers decent performance for gaming and everyday tasks.",
+    "keyFeatures": {
+      "Brand": "Corsair",
+      "Model": "Vengeance LPX",
+      "Capacity": "8GB (1 x 8GB)",
+      "Speed": "3200 MHz",
+      "CASLatency": "16",
+      "Voltage": "1.35V",
+      "MemoryType": "DDR4"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/corsair-vengeance-lpx-8gb-ddr4-3200mhz-black-11572682684.webp",
+    "price": 5000,
+    "category": "RAM",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "G.SKILL Trident Z RGB 16GB DDR4",
+    "description": "The G.SKILL Trident Z RGB is a high-performance DDR4 RAM with stylish RGB lighting effects. It offers excellent performance for gaming and demanding applications.",
+    "keyFeatures": {
+      "Brand": "G.SKILL",
+      "Model": "Trident Z RGB",
+      "Capacity": "16GB (2 x 8GB)",
+      "Speed": "3200 MHz",
+      "CASLatency": "16",
+      "Voltage": "1.35V",
+      "MemoryType": "DDR4"
+    },
+    "image": "https://www.gskill.com/_upload/images/153665426810.png",
+    "price": 9000,
+    "category": "RAM",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "name": "Samsung 980 PRO 1TB NVMe SSD",
+    "description": "The Samsung 980 PRO is a high-speed NVMe SSD that offers blazing-fast performance for enthusiasts and professionals. It utilizes PCIe Gen 4.0 for exceptional speeds.",
+    "keyFeatures": {
+      "Brand": "Samsung",
+      "Model": "980 PRO",
+      "Capacity": "1TB",
+      "Interface": "NVMe PCIe Gen 4.0 x4",
+      "ReadSpeed": "7000 MB/s",
+      "WriteSpeed": "5000 MB/s",
+      "FormFactor": "M.2 (2280)",
+      "Voltage": "3.3V"
+    },
+    "image": "https://www.binarylogic.com.bd/images/product_image/large1TB%20980%20PRO%20m.2%20ssd%20price%20in%20bd-5.webp",
+    "price": 22000,
+    "category": "Storage",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Acer Predator XB271HU 27 Inch Monitor",
+    "description": "The Acer Predator XB271HU is a premium gaming monitor with a 27-inch IPS panel and a high refresh rate of 165Hz. It supports NVIDIA G-Sync for smooth and tear-free gaming.",
+    "keyFeatures": {
+      "Brand": "Acer",
+      "Model": "Predator XB271HU",
+      "ScreenSize": "27-inch",
+      "PanelType": "IPS",
+      "Resolution": "2560x1440 (QHD)",
+      "RefreshRate": "165Hz",
+      "ResponseTime": "4ms",
+      "AspectRatio": "16:9",
+      "ViewingAngle": "178°",
+      "Brightness": "350 cd/m²"
+    },
+    "image": "https://m.media-amazon.com/images/I/71GkuDC5HiL.jpg",
+    "price": 45000,
+    "category": "Monitor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Dell S2721D 27 Inch Monitor",
+    "description": "The Dell S2721D is a 27-inch monitor with a QHD resolution and an IPS panel for vibrant colors and wide viewing angles. It's a great choice for productivity and entertainment.",
+    "keyFeatures": {
+      "Brand": "Dell",
+      "Model": "S2721D",
+      "ScreenSize": "27-inch",
+      "PanelType": "IPS",
+      "Resolution": "2560x1440 (QHD)",
+      "RefreshRate": "75Hz",
+      "ResponseTime": "4ms (GTG)",
+      "AspectRatio": "16:9",
+      "ViewingAngle": "178°",
+      "Brightness": "350 cd/m²"
+    },
+    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/peripherals/output-devices/dell/monitors/s-series/s2721ds/pdp/73402-s2721ds-monitor-pdp-hero.jpg?fmt=jpg&wid=504&hei=350",
+    "price": 22000,
+    "category": "Monitor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Intel Core i5-11600K",
+    "description": "The Intel Core i5-11600K is a powerful processor from Intel's 11th Gen Rocket Lake lineup. It features 6 cores and 12 threads, making it a great choice for gaming and multitasking.",
+    "keyFeatures": {
+      "Brand": "Intel",
+      "Model": "Core i5-11600K",
+      "CoreCount": 6,
+      "ThreadCount": 12,
+      "BaseClock": "3.90 GHz",
+      "MaxTurboClock": "4.90 GHz",
+      "TDP": "125W"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i5-11600k/i5-11600k-500x500.jpg",
+    "price": 26000,
+    "category": "Processor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Corsair Vengeance RGB Pro 16GB DDR4",
+    "description": "The Corsair Vengeance RGB Pro is a high-performance DDR4 RAM module with eye-catching RGB lighting. It offers excellent speed and reliability for gaming and multitasking.",
+    "key_features": {
+      "Brand": "Corsair",
+      "Model": "Vengeance RGB Pro",
+      "Capacity": "16GB (2 x 8GB)",
+      "Speed": "3200 MHz",
+      "CAS Latency": 16,
+      "Voltage": "1.35V",
+      "Memory Type": "DDR4"
+    },
+    "image": "https://goprice.com.bd/wp-content/uploads/2023/04/vengeance-rgb-pro-ram-kit-white-01-500x500-1.jpg",
+    "price": 10000,
+    "stock_status": "In Stock",
+    "category": "RAM",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Logitech G Pro Wireless Gaming Mouse",
+    "description": "The Logitech G Pro Wireless Gaming Mouse is designed for professional gamers, offering exceptional performance and wireless freedom. It features a lightweight design and advanced tracking technology for precise control.",
+    "key_features": {
+      "Brand": "Logitech",
+      "Model": "G Pro Wireless",
+      "Connectivity": "Wireless (USB receiver)",
+      "Sensor Technology": "HERO 25K",
+      "DPI Range": "100-25,600 DPI",
+      "Battery Life": "Up to 60 hours (without RGB lighting)"
+    },
+    "image": "https://theblisstronics.com/wp-content/uploads/2022/12/g-pro.jpg",
+    "price": 8000,
+    "stock_status": "In Stock",
+    "category": "Others",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Razer DeathAdder V2 Gaming Mouse",
+    "description": "The Razer DeathAdder V2 Gaming Mouse is an iconic gaming mouse known for its comfortable design and precise optical sensor. It's a popular choice among gamers for its reliability and performance.",
+    "key_features": {
+      "Brand": "Razer",
+      "Model": "DeathAdder V2",
+      "Connectivity": "Wired (USB)",
+      "DPI Range": "100-20,000 DPI",
+      "Sensor Technology": "Focus+ Optical",
+      "Buttons": 8
+    },
+    "image": "https://www.squiggles.com.sa/web/image/product.template/87913/image_1024?unique=14a4be7",
+    "price": 7000,
+    "stock_status": "In Stock",
+    "category": "Others",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+   
+    "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard",
+    "description": "The Corsair K95 RGB Platinum XT is a premium mechanical gaming keyboard with customizable RGB lighting and dedicated macro keys. It offers a durable aluminum frame and Cherry MX mechanical key switches for excellent performance.",
+    "key_features": {
+      "Brand": "Corsair",
+      "Model": "K95 RGB Platinum XT",
+      "Key Switch Type": "Cherry MX RGB Brown (also available in other variants)",
+      "Backlighting": "Per-key RGB",
+      "Connectivity": "Wired (USB)",
+      "Dedicated Macro Keys": "Yes"
+    },
+    "image": "https://pcper.com/wp-content/uploads/2020/01/corsair-k95-rgb-platinum-xt-featured.jpg",
+    "price": 18000,
+    "stock_status": "In Stock",
+    "category": "Others",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Logitech G Pro X Mechanical Gaming Keyboard",
+    "description": "The Logitech G Pro X Mechanical Gaming Keyboard is a tournament-grade keyboard designed for esports professionals. It features customizable key switches and RGB lighting, allowing gamers to personalize their gaming experience.",
+    "key_features": {
+      "Brand": "Logitech",
+      "Model": "G Pro X",
+      "Key Switch Type": "Customizable (GX switches)",
+      "Backlighting": "Per-key RGB",
+      "Connectivity": "Wired (USB)",
+      "Dedicated Macro Keys": "Yes"
+    },
+    "image": "https://assets.hardwarezone.com/img/2019/10/logitech-g-pro-x-keyboard.jpg",
+    "price": 15000,
+    "stock_status": "In Stock",
+    "category": "Others",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Corsair RM750x, 750W Power Supply",
+    "description": "The Corsair RM750x is a high-quality power supply with 80 Plus Gold certification, ensuring efficient power delivery and stable performance. It's fully modular, making cable management a breeze for PC builders.",
+    "key_features": {
+      "Brand": "Corsair",
+      "Model": "RM750x",
+      "Wattage": "750W",
+      "Efficiency": "80 Plus Gold",
+      "Modular": "Fully Modular"
+    },
+    "image": "https://cdn.mos.cms.futurecdn.net/9xcZipTCuEsjcmtE5kcpP7.jpg",
+    "price": 13000,
+    "stock_status": "In Stock",
+    "category": "Power Supply",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+   
+    "name": "Seasonic Focus GX-650, 650W Power Supply",
+    "description": "The Seasonic Focus GX-650 is a reliable and efficient power supply with 80 Plus Gold certification. It features a compact design and a quiet cooling fan for silent operation.",
+    "key_features": {
+      "Brand": "Seasonic",
+      "Model": "Focus GX-650",
+      "Wattage": "650W",
+      "Efficiency": "80 Plus Gold",
+      "Modular": "Fully Modular"
+    },
+    "image": "https://seasonic.com/pub/media/catalog/product/cache/3cbda8e892dc62fc02660815c2a4b231/f/o/focus-gx-650-box_1.jpg",
+    "price": 11000,
+    "stock_status": "In Stock",
+    "category": "Power Supply",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "EVGA SuperNOVA 850 G3, 850W Power Supply",
+    "description": "The EVGA SuperNOVA 850 G3 is a high-performance power supply with 80 Plus Gold certification. It's designed for enthusiasts and gamers who need ample power for their high-end systems.",
+    "key_features": {
+      "Brand": "EVGA",
+      "Model": "SuperNOVA 850 G3",
+      "Wattage": "850W",
+      "Efficiency": "80 Plus Gold",
+      "Modular": "Fully Modular"
+    },
+    "image": "https://images.evga.com/products/gallery/png/220-G3-0850-X1_LG_1.png",
+    "price": 16000,
+    "stock_status": "In Stock",
+    "category": "Power Supply",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Cooler Master MWE Gold 650 V2, 650W Power Supply",
+    "description": "The Cooler Master MWE Gold 650 V2 is a reliable power supply with 80 Plus Gold certification. It offers stable power delivery and is suitable for mid-range gaming PCs.",
+    "key_features": {
+      "Brand": "Cooler Master",
+      "Model": "MWE Gold 650 V2",
+      "Wattage": "650W",
+      "Efficiency": "80 Plus Gold",
+      "Modular": "Non-Modular"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/cooler-master-mwe-750w-v2-non-modular-power-31626945420.webp",
+    "price": 9500,
+    "stock_status": "In Stock",
+    "category": "Power Supply",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Thermaltake Toughpower GF1 ARGB 750W Power Supply",
+    "description": "The Thermaltake Toughpower GF1 ARGB 750W is a high-quality power supply with 80 Plus Gold certification. It features customizable RGB lighting and is designed for gaming setups with ARGB illumination.",
+    "key_features": {
+      "Brand": "Thermaltake",
+      "Model": "Toughpower GF1 ARGB 750W",
+      "Wattage": "750W",
+      "Efficiency": "80 Plus Gold",
+      "Modular": "Non-Modular"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/medium/bundle-with-pc-thermaltake-toughpower-gf1-750w-11602163996.webp",
+    "price": 12000,
+    "stock_status": "In Stock",
+    "category": "Power Supply",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "GIGABYTE B450M DS3H",
+    "description": "The GIGABYTE B450M DS3H is a budget-friendly motherboard that supports AMD Ryzen processors. It's a micro-ATX board with essential features for mainstream users.",
+    "keyFeatures": {
+      "Brand": "GIGABYTE",
+      "Model": "B450M DS3H",
+      "Chipset": "AMD B450",
+      "FormFactor": "Micro-ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "64GB",
+      "PCIeSlots": 2,
+      "SATA3Ports": 4,
+      "M2Slots": 1,
+      "USBPorts": 8
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b450m-ds3h/b450m-ds3h-1-500x500.jpg",
+    "price": 12000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Samsung 970 EVO 1TB NVMe SSD",
+    "description": "The Samsung 970 EVO is a high-speed NVMe SSD that offers excellent performance for gaming and content creation. It's built with V-NAND technology for enhanced reliability.",
+    "keyFeatures": {
+      "Brand": "Samsung",
+      "Model": "970 EVO",
+      "Capacity": "1TB",
+      "Interface": "NVMe PCIe M.2",
+      "ReadSpeed": "3400 MB/s",
+      "WriteSpeed": "2500 MB/s",
+      "FormFactor": "M.2 (2280)",
+      "Voltage": "3.3V"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/970-evo-1tb/970-evo-1tb-500x500.jpg",
+    "price": 13000,
+    "category": "Storage",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+   
+    "name": "MSI B450 TOMAHAWK MAX",
+    "description": "The MSI B450 TOMAHAWK MAX is a popular motherboard that supports AMD Ryzen processors. It offers great value and reliability for mainstream gaming builds.",
+    "keyFeatures": {
+      "Brand": "MSI",
+      "Model": "B450 TOMAHAWK MAX",
+      "Chipset": "AMD B450",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "64GB",
+      "PCIeSlots": 2,
+      "SATA3Ports": 6,
+      "M2Slots": 1,
+      "USBPorts": 10
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/b450-tomahawk-max/b450-tomahawk-max-1-500x500.jpg",
+    "price": 14000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+   
+    "name": "MSI MAG B550 TOMAHAWK",
+    "description": "The MSI MAG B550 TOMAHAWK is a feature-packed motherboard that supports AMD Ryzen processors. It offers a blend of performance, connectivity, and aesthetics.",
+    "keyFeatures": {
+      "Brand": "MSI",
+      "Model": "MAG B550 TOMAHAWK",
+      "Chipset": "AMD B550",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "128GB",
+      "PCIeSlots": 2,
+      "SATA3Ports": 6,
+      "M2Slots": 2,
+      "USBPorts": 12
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/mag-b550-tomahawk/mag-b550-tomahawk-1-500x500.jpg",
+    "price": 24000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Dell S2721QS 27 Inch 4K Monitor",
+    "description": "The Dell S2721QS is a 27-inch 4K monitor with an IPS panel for stunning visuals and color accuracy. It's a great choice for productivity and multimedia consumption.",
+    "keyFeatures": {
+      "Brand": "Dell",
+      "Model": "S2721QS",
+      "ScreenSize": "27-inch",
+      "PanelType": "IPS",
+      "Resolution": "3840x2160 (4K UHD)",
+      "RefreshRate": "60Hz",
+      "ResponseTime": "4ms (GTG)",
+      "AspectRatio": "16:9",
+      "ViewingAngle": "178°",
+      "Brightness": "350 cd/m²"
+    },
+    "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/peripherals/output-devices/dell/monitors/s-series/s2721qs/pdp/73402-s2721qs-monitor-pdp-hero.jpg?fmt=jpg&wid=504&hei=350",
+    "price": 36000,
+    "category": "Monitor",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "ASUS ROG Crosshair VIII Hero",
+    "description": "The ASUS ROG Crosshair VIII Hero is a high-end motherboard designed for AMD Ryzen processors. It offers premium features and exceptional performance for gaming enthusiasts.",
+    "keyFeatures": {
+      "Brand": "ASUS",
+      "Model": "ROG Crosshair VIII Hero",
+      "Chipset": "AMD X570",
+      "FormFactor": "ATX",
+      "MemorySlots": 4,
+      "MaxMemory": "128GB",
+      "PCIeSlots": 3,
+      "SATA3Ports": 8,
+      "M2Slots": 2,
+      "USBPorts": 14
+    },
+    "image": "https://www.techlandbd.com/image/catalog/Motherboard/Asus/Crosshair%20VIII/asus-rog-crosshair-viii-hero-wifi(1).jpg",
+    "price": 32000,
+    "category": "Motherboard",
+    "stock_status": "In Stock",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "NZXT H510",
+    "description": "The NZXT H510 is a compact mid-tower casing with a minimalist design, optimized for airflow and cable management.",
+    "key_features": {
+      "Brand": "NZXT",
+      "Model": "H510",
+      "Case Type": "Mid-Tower",
+      "Motherboard Compatibility": "ATX, Micro-ATX, Mini-ITX",
+      "GPU Clearance": "Up to 381mm",
+      "CPU Cooler Clearance": "Up to 165mm",
+      "Storage Support": "2x 2.5-inch SSD, 2x 3.5-inch HDD",
+      "Front I/O Ports": "1x USB 3.1 Gen 2 Type-C, 1x USB 3.1 Gen 1 Type-A, Audio"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/nzxt-h510-compact-mid-tower-white-black-casing-41643286196.webp",
+    "price": 8000,
+    "stock_status": "In Stock",
+    "category": "Casing",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Corsair 4000D Airflow",
+    "description": "The Corsair 4000D Airflow is a high-airflow mid-tower casing with a clean and modern design, perfect for building a powerful gaming PC.",
+    "key_features": {
+      "Brand": "Corsair",
+      "Model": "4000D Airflow",
+      "Case Type": "Mid-Tower",
+      "Motherboard Compatibility": "ATX, Micro-ATX, Mini-ITX",
+      "GPU Clearance": "Up to 360mm",
+      "CPU Cooler Clearance": "Up to 170mm",
+      "Storage Support": "2x 2.5-inch SSD, 2x 3.5-inch HDD",
+      "Front I/O Ports": "2x USB 3.0, Audio"
+    },
+    "image": "https://www.startech.com.bd/image/cache/catalog/casing/corsair/4000d-airflow/4000d-airflow-500x500.jpg",
+    "price": 9500,
+    "stock_status": "In Stock",
+    "category": "Casing",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    
+    "name": "Cooler Master MasterBox MB511",
+    "description": "The Cooler Master MasterBox MB511 is a stylish mid-tower casing with a mesh front panel for improved airflow and a tempered glass side panel to showcase your components.",
+    "key_features": {
+      "Brand": "Cooler Master",
+      "Model": "MasterBox MB511",
+      "Case Type": "Mid-Tower",
+      "Motherboard Compatibility": "ATX, Micro-ATX, Mini-ITX",
+      "GPU Clearance": "Up to 410mm",
+      "CPU Cooler Clearance": "Up to 165mm",
+      "Storage Support": "4x 2.5-inch SSD, 2x 3.5-inch HDD",
+      "Front I/O Ports": "2x USB 3.0, Audio"
+    },
+    "image": "https://www.cloud.ryanscomputers.com/cdn/products/thumbnail/cooler-master-masterbox-mb511-rgb-tempered-glass-31545984651.webp",
+    "price": 7500,
+    "stock_status": "In Stock",
+    "category": "Casing",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "name": "Phanteks Eclipse P400A",
+    "description": "The Phanteks Eclipse P400A is a high-performance mid-tower casing with a mesh front panel and ARGB lighting, providing excellent cooling and aesthetics.",
+    "key_features": {
+      "Brand": "Phanteks",
+      "Model": "Eclipse P400A",
+      "Case Type": "Mid-Tower",
+      "Motherboard Compatibility": "ATX, Micro-ATX, Mini-ITX",
+      "GPU Clearance": "Up to 420mm",
+      "CPU Cooler Clearance": "Up to 160mm",
+      "Storage Support": "2x 2.5-inch SSD, 2x 3.5-inch HDD",
+      "Front I/O Ports": "2x USB 3.0, Audio"
+    },
+    "image": "https://www.techlandbd.com/image/catalog/Casing/Phanteks/Eclipse%20P400A/White/phanteks-eclipse-p400a-case-white-1.jpg",
+    "price": 8500,
+    "stock_status": "In Stock",
+    "category": "Casing",
+    "rating":4.4,"reviews": [
+      {
+        "rating": 4.3,
+        "message": "Bhalo product"
+      },
+      {
+        "message": "Karap na",
+        "rating": 3.8
+      }
+    ]
+  }
+]
